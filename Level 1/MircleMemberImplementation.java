@@ -9,4 +9,7 @@ public class MircleMemberImplementation extends abstractMircleMember {
 	void Jason() {
 		System.out.println("Hi, I'm Jason and I think Microsoft Word can be used as a Java text editor");
 	}
+	void Mustafa() {
+		System.out.println("This really should of been an interface rather than an asbtract class");
+	}
 }
