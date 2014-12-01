@@ -12,4 +12,7 @@ public class MircleMemberImplementation extends abstractMircleMember {
 	void Mustafa() {
 		System.out.println("This really should of been an interface rather than an asbtract class");
 	}
+	void Jordan() {
+		System.out.println("I don't know what I'm doing");
+	}
 }
