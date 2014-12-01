@@ -3,5 +3,6 @@ public class MircleInitiation {
 		MircleMemberImplementation mirc = new MircleMemberImplementation();
 		mirc.Janidhu();
 		mirc.Jason();
+		mirc.Mustafa();
 	}
 }
