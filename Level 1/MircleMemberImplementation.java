@@ -5,7 +5,6 @@ public class MircleMemberImplementation extends abstractMircleMember {
 	void Janidhu() {
 		System.out.println("Hi, I'm Janidhu and I'm a lot cooler than Dennis");
 	}
-
 	void Jason() {
 		System.out.println("Hi, I'm Jason and I think Microsoft Word can be used as a Java text editor");
 	}
@@ -16,6 +15,6 @@ public class MircleMemberImplementation extends abstractMircleMember {
 		System.out.println("I don't know what I'm doing");
 	}
 	void Kieran(){
-		System.out.println("Touch my cock Janidhu :)");
+		System.out.println("Janidhu, Senpai, teach me please");
 	}
 }
