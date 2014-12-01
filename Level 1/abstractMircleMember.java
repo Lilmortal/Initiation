@@ -9,5 +9,6 @@ abstract class abstractMircleMember {
 	abstract void Jason();
 	abstract void Mustafa();
 	abstract void Jordan();
+	abstract void Kieran();
 	
 }

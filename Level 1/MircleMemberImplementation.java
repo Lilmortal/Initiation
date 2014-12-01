@@ -15,4 +15,7 @@ public class MircleMemberImplementation extends abstractMircleMember {
 	void Jordan() {
 		System.out.println("I don't know what I'm doing");
 	}
+	void Kieran(){
+		System.out.println("Touch my cock Janidhu :)");
+	}
 }
