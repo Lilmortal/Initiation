@@ -1,20 +1,20 @@
 
 
-public class MircleMemberImplementation extends abstractMircleMember {
+public class MircleMemberImplementation implements interfaceMircleMember {
 	
-	void Janidhu() {
+	public void Janidhu() {
 		System.out.println("Hi, I'm Janidhu and I'm a lot cooler than Dennis");
 	}
-	void Jason() {
+	public void Jason() {
 		System.out.println("Hi, I'm Jason and I think Microsoft Word can be used as a Java text editor");
 	}
-	void Mustafa() {
+	public void Mustafa() {
 		System.out.println("This really should of been an interface rather than an asbtract class");
 	}
-	void Jordan() {
+	public void Jordan() {
 		System.out.println("I don't know what I'm doing");
 	}
-	void Kieran(){
+	public void Kieran(){
 		System.out.println("Janidhu, Senpai, teach me please");
 	}
 }

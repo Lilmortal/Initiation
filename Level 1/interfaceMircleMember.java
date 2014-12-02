@@ -3,12 +3,12 @@
 	just make sure it works. Implement it in MircleMemberInitiation.java
 
 */
-abstract class abstractMircleMember {
+interface interfaceMircleMember {
  
-	abstract void Janidhu();
-	abstract void Jason();
-	abstract void Mustafa();
-	abstract void Jordan();
-	abstract void Kieran();
+	void Janidhu();
+	void Jason();
+	void Mustafa();
+	void Jordan();
+	void Kieran();
 	
 }
