@@ -10,6 +10,7 @@ interface interfaceMircleMember {
 	void Mustafa();
 	void Jordan();
 	void Kieran();
+	void Dennis();
 	
 	
 }
