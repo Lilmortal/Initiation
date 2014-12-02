@@ -5,5 +5,6 @@ public class MircleInitiation {
 		mirc.Jason();
 		mirc.Mustafa();
 		mirc.Jordan();
+		mirc.Dennis();
 	}
 }

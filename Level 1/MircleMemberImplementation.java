@@ -17,4 +17,7 @@ public class MircleMemberImplementation implements interfaceMircleMember {
 	public void Kieran(){
 		System.out.println("Janidhu, Senpai, teach me please");
 	}
+	public void Dennis(){
+			System.out.println("hudshandsadk please");
+	}
 }
